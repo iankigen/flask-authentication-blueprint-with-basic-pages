@@ -1,4 +1,4 @@
-FROM python:3
+FROM python:3.11.0a5-slim-bullseye
 MAINTAINER Ian Kigen <ian.kigen@andela.com>
 
 ENV INSTALL_PATH /snakeeyes
